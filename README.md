@@ -4,6 +4,7 @@ Project Overview :-
 This Amazon clone project is a front-end web development endeavor focused on recreating the visual interface and user experience of Amazon's e-commerce platform. Built exclusively with HTML and CSS, the project demonstrates mastery of core front-end technologies and responsive design principles.
 
 Technical Implementation :- 
+
 HTML Structure :- 
 1. Semantic HTML5 elements (header, nav, main, section, footer)
 2. BEM methodology for class naming consistency
