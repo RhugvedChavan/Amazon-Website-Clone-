@@ -5,7 +5,7 @@ This Amazon clone project is a front-end web development endeavor focused on rec
 
 Technical Implementation :- 
 HTML Structure :- 
-1. Semantic HTML5 elements (<header>, <nav>, <main>, <section>, <footer>)
+1. Semantic HTML5 elements (header, nav, main, section, footer)
 2. BEM methodology for class naming consistency
 3. Accessibility features (ARIA labels, alt text, proper heading hierarchy)
 4. Font Awesome or other icon libraries for scalable vector icons
