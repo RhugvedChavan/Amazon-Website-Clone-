@@ -1,6 +1,5 @@
 # Amazone Website Clone 
 
-# Project Overview :- 
 This Amazon clone project is a front-end web development endeavor focused on recreating the visual interface and user experience of Amazon's e-commerce platform. Built exclusively with HTML and CSS, the project demonstrates mastery of core front-end technologies and responsive design principles.
 
 
@@ -43,4 +42,4 @@ HTML , CSS
 
 # Run & Install :- 
 
-Clone the repository - 
+Clone the repository - https://github.com/RhugvedChavan/Amazon-Website-Clone-.git
